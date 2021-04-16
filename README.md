@@ -1,4 +1,4 @@
-Assignment: To replace the string from text file.
+
 TABLE OF CONTENTS:
 	1.TITLE
 	2.LIBRARIES
@@ -7,7 +7,7 @@ TABLE OF CONTENTS:
 `	5.PLATFORM
 	
 
-1.TITLE: A java program to replace words from text file.
+**1.TITLE: A java program to replace words from text file.**
 
 2.LIBRARIES:
 import java.io.BufferedReader;
